@@ -1,0 +1,6 @@
+export const Loading="loading"
+export const Errorhandle="Errorhandle"
+export const AllDataFetch="FetchData"
+export const DeleteUsers="DeleteUsers"
+export const PostUsers="PostUsers"
+export const DeleteLoading="DeletyeLoading"
